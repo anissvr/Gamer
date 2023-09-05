@@ -61,7 +61,7 @@ nav {
     transition: .5s;
 }
 
-.menu-items .btn:hover {
+.menu-items .btn {
     border-radius: 8px;
     background: rgba(11, 2, 35, 0.10);
 
